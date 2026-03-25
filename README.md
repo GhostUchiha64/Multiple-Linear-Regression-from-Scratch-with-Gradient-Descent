@@ -58,11 +58,7 @@ Given a dataset with two independent variables (`x1`, `x2`) and a continuous tar
 Team Project/
 ├── README.md
 ├── mlr.py                                                    # Main MLR implementation script
-├── First.docx                                               # Project report / analysis (Word)
-├── Project 1 - MLR.pdf                                      # Project report (PDF)
-├── Project1- KatieElms,SrinilaPogalla,SiddarthaBandi (2).pdf  # Team submission report
-├── Example.pdf                                              # Reference/example document
-└── 129642039.pdf                                            # Supporting reference material
+├── Multiple-Linear-Regression-from-Scratch-with-Gradient-Descent.pdf  # Team submission report
 ```
 
 ---
